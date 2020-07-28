@@ -7,7 +7,7 @@ cffi==1.11.5
 chardet==3.0.4
 idna==2.7
 itsdangerous==0.24
-markupsafe==1.0
+markupsafe==1.1.1
 mongoengine==0.15.3
 multidict==4.4.2; python_version >= '3.4.1'
 multipledispatch==0.6.0
